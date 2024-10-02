@@ -159,6 +159,9 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Projects
+> ** PJT_1 \
+> ** PJT_2
+
 <!--
 > **petBook** &nbsp; https://petbook.site/ \
 > **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
