@@ -46,6 +46,7 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
 <br>
 
+<!-- 
 #### <s>UI Framework & Library</s>
 
 <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff"/>
@@ -93,6 +94,7 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
 </div>
+-->
 <!-- 
 #### 🛠 사용해본 Skill & Stack
 
@@ -116,8 +118,8 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 24.01 | .. | .. |
-| 23.08 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
+| 24.09 ~ 25.03 | AWS 클라우드 활용 풀스택+RPA 자동화 솔루션 개발 과정 | 기흥 두드림컴퓨터아카데미 |
+| 23.08 | .. | .. |
 
 <!--
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
