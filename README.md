@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AWS%20%7e%20RPA&fontSize=90)
 <!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=yoonOcean's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Software%20Engineer,%20Frontend&rotate=0)
 
