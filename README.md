@@ -40,6 +40,7 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 
 #### <s>State Management</s>
 
+<!-- 
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Zustand-D9411E?style=for-the-badge&logo=zustand&logoColor=fff"/>
@@ -47,7 +48,6 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
 <br>
 
-<!-- 
 #### <s>UI Framework & Library</s>
 
 <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff"/>
