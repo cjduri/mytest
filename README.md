@@ -140,8 +140,8 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 ---
 
 ### More Info 
-> **portfolio**
-> **email**
+> **portfolio** \
+> **email** \
 > **blog**&nbsp;&nbsp; 　　  [https://..]
 
 <!--
