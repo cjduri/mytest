@@ -116,8 +116,8 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 24.01 | ..
-| 23.08 | ..
+| 24.01 | .. | .. |
+| 23.08 | .. | .. |
 <!--
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
 | 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
