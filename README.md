@@ -117,7 +117,8 @@ Git&GitHub, UML, Notion, Pigma, AWS, RPA
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 24.01 | .. | .. |
-| 23.08 | .. | .. |
+| 23.08 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
+
 <!--
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
 | 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
